@@ -21,7 +21,7 @@ int main(){
 }
 
 /*
-
+output
 4
 1 2 3 4
 
