@@ -53,13 +53,6 @@ void evenAfterOdd(node* &head){
     
 }
 
-
-
-
-
-
-
-
 int main(){
     node* head = NULL;
     insertAtTail(head, 1);
